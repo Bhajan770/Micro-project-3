@@ -1,0 +1,138 @@
+.body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #3B4664;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+
+
+#display {
+    padding: 10px;
+    font-size: 24px;
+    margin-bottom: 10px;
+    background-color: #181F32;
+    margin-left: 120px;
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+    width: 520px;
+    height: 142.73px;
+    top: 194px;
+    left: 466px;
+}
+
+button {
+    width: 100px;
+    height: 60px;
+    font-size: 20px;
+    background-color:  #EAE3DB;
+    color:  #3B4664;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    margin: 5px;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;  
+}
+
+button:hover {
+    background-color: #555;
+}
+#main{
+    background-color:  #252D44;
+   margin-left: 120px;
+   border-radius: 5px;
+   width: 536px;
+   height: 380px;
+   top: 363px;
+   left: 466px;
+   gap: 10px;
+   padding-top: 20px;
+}
+.clear{
+    font-family: Inter;
+font-size: 30px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+gap: 22px;
+
+}
+.plus{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    gap: 22px;
+}
+.minus{
+    font-family: Inter;
+font-size: 30px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+gap: 22px;
+}
+.multiply{
+    font-family: Inter;
+font-size: 30px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+gap: 22px;
+}
+.moon{
+    width: 222.44px;
+height: 60px;
+left: 243.56px;
+border-radius: 11.52px;
+background: #D13F30;
+color: #FFFFFF;
+}
+.Reset{
+    width: 222.44px;
+    height: 60px;
+    border-radius: 11.52px;
+    background: #647299;
+    color: #FFFFFF;
+    font-family: Inter;
+font-size: 23px;
+font-weight: 800;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+
+
+}
+.equal{
+    font-family: Inter;
+font-size: 30px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: center;
+gap: 22px;
+}
+.delete{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 800;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFF;
+background: #647299;
+}
